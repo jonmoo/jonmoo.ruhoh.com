@@ -1,11 +1,10 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Another Blog
+tagline: More blog system testing
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Jon Moore
+  email : jonmoo@usefulgeek.com
+  github : jonmoo
+  twitter : thejonmoore
 
 navigation :
   - archive.html
